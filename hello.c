@@ -14,5 +14,6 @@ void main(void)
     printf("i = %d", i);
     printf("main return\n");
     printf("hello world!");
+    printf("I am coming\n");
     return;
 }
