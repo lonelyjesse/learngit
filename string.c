@@ -14,6 +14,10 @@ int strlen(unsigned char *str)
         len++;
         str++;
     }
+    while(len > 0)
+    {
+        printf("len = %d\n", len);
+    }
     printf("hello\n");
     printf("strlen return\n");
     printf("this is a new day\n");
