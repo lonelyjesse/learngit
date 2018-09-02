@@ -16,5 +16,6 @@ int strlen(unsigned char *str)
     }
     printf("hello\n");
     printf("strlen return\n");
+    printf("this is a new day\n");
     return len;
 }
