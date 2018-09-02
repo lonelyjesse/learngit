@@ -14,5 +14,6 @@ int strlen(unsigned char *str)
         len++;
         str++;
     }
+    printf("strlen return\n");
     return len;
 }
